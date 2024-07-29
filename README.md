@@ -1,4 +1,4 @@
-# Hello, I'm [SUYASH JOSHI] 👋
+# Hello 👋, I'm [SUYASH JOSHI] 
 
 Welcome to my GitHub profile! I'm excited to share my projects and contributions with you. Here’s a bit about me:
 
